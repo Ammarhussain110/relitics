@@ -1,0 +1,12 @@
+.head {
+    background: linear-gradient(0deg, rgba(2, 41, 69, 0.8), rgba(2, 41, 69, 0.8)), url('../../public/top-view-dubai.png');
+    background-size: cover;
+    height: 22.0rem;
+    margin-top: 0rem !important;
+}
+
+.text {
+    font-size: 7.0rem;
+    color: white;
+    padding-top: 5rem;
+}

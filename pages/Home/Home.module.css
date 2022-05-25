@@ -1,0 +1,17 @@
+.mainn{
+    background-image: linear-gradient(to bottom, rgba(2, 41, 69, 0.9) 0%,rgba(2, 41, 69, 0.9) 50%), url('/Mask Group 116.png');
+    
+}
+    .homeline{
+        background-color: #023792;
+        height: 3px;
+        width: 40px;
+    }
+    .homeline1{
+        background-color: white;
+        height: 3px;
+        width: 40px;
+    }
+    .smallfont{
+        font-size: 9px !important;
+    }

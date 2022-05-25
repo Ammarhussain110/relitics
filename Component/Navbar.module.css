@@ -1,0 +1,91 @@
+.dashNavColor {
+  background-color: #F8FCFF;
+}
+
+.dashNavColor .navbarText {
+  color: #022945 !important;
+}
+.dashNavColor .navbarText:hover {
+  color: #FFDA5F !important;
+}
+
+
+
+
+.navcolor {
+  background-color: #022945;
+  border-bottom   : .2rem solid #EAF7FF;
+}
+
+
+.ImgSize {
+  width : 14.6rem !important;
+  height: 6.6rem !important;
+}
+
+.active {
+  background-color: #041E31 !important;
+  color           : #FFDA5F !important;
+}
+
+.NavBtnPadding {
+  padding-top   : 3.2rem;
+  padding-bottom: 3.1rem;
+  padding-left  : 1.3rem !important;
+  padding-right : 1.3rem !important;
+}
+
+@media only screen and (max-width: 994px) {
+  .NavBtnPadding {
+    padding-top   : 1rem;
+    padding-bottom: 1rem;
+    padding-left  : 1rem;
+    margin-left   : 1.4rem;
+    border-left   : 0px;
+    border-left   : 0px;
+    border-top    : 1px solid #153952;
+    border-bottom : 1px solid #153952;
+  }
+
+  .login,
+  .sign,
+  .notiBtn,
+  .profileBtn {
+    margin-top   : 1rem !important;
+    margin-bottom: 1rem !important;
+    margin-left  : 1.8rem !important;
+  }
+
+  .ImgSize {
+    margin: 1.8rem !important;
+  }
+}
+
+.sign {
+  background-color: #FFDA5F !important;
+  border          : .1rem solid #FFDA5F !important;
+  color           : #022945;
+  font-size       : smaller;
+  height          : 2.8rem;
+  width           : 7.5rem;
+  border-radius   : 1rem;
+  font-size       : 1.4rem;
+  margin-top      : 3rem;
+  margin-bottom   : 3rem;
+  margin-left     : 1rem;
+  margin-right    : 1rem;
+}
+
+.login {
+  background-color: #0F74AF !important;
+  color           : white;
+  font-size       : smaller;
+  height          : 2.8rem;
+  width           : 7.5rem;
+  font-size       : 1.4rem;
+  border-radius   : 1rem;
+  margin-top      : 3rem;
+  margin-bottom   : 3rem;
+  margin-left     : 1rem;
+  margin-right    : 1rem;
+}
